@@ -12,7 +12,7 @@ We have successfully trained a highly accurate model on data which was automatic
 1. [Getting Started with deployment](#getting-started)
 2. [About the Datasets, Automatic Annotation tools and Models](#About-the-Datasets,-Automatic-Annotation-Tools-and-Models)
 3. [Future Scope](#future-scope)
-4. [Contact us](#contact-us:)
+4. [Contact us](#contact-us)
 
 # Getting Started
 
@@ -24,11 +24,11 @@ We have successfully trained a highly accurate model on data which was automatic
 3. To enter the virtual environment, use the “abc\Scripts\Activate” command where “abc” is the name of the virtual environment.
 4. Once in virtualenv execute the command “pip install -r requirements.txt” to download all the dependencies.
 5. Then run the following commands:
-	> set FLASK_APP=app.py (app name)
-  
-    > set FLASK_ENV=development
-  
-    > flask run
+> set FLASK_APP=app.py (app name)
+>   
+> set FLASK_ENV=development
+> 
+> flask run
 6. Copy and Paste the URL provided in the output screen onto any web browser.
 7. Depending on the type of file you downloaded (Mass/Single), enter either a URL of        the product with its page number
  (For ex:      https://www.amazon.in/Vivo-Midnight-Additional-Exchange-Offers/product-reviews/B09Q5Z5M9D/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2) or a single review (for eg: “The phone is fast enough for daily use. Software needs much more improvement seems like some settings for UI is missing. Search inside settings won't show any results even if they exists”) .
