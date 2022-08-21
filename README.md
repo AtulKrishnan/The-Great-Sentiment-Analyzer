@@ -9,10 +9,10 @@ We have successfully trained a highly accurate model on data which was automatic
 
 # Table of Contents:
 
-1. .[Getting Started with deployment].(#getting-started)
-2. .[About the Datasets, Automatic Annotation tools and Models].(#About-the-Datasets,-Automatic-Annotation-Tools-and-Models)
-3. .[Future Scope].(#future-scope)
-4. .[Contact us].(#contact-us:)
+1. [Getting Started with deployment](#getting-started)
+2. [About the Datasets, Automatic Annotation tools and Models](#About-the-Datasets,-Automatic-Annotation-Tools-and-Models)
+3. [Future Scope](#future-scope)
+4. [Contact us](#contact-us:)
 
 # Getting Started
 
